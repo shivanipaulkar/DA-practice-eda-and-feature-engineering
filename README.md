@@ -1,2 +1,9 @@
-# DA-practice-eda-and-feature-engineering
-Practice repository for Exploratory Data Analysis (EDA), feature engineering, data cleaning, and Python-based data analytics projects.
+# 📊 DA Practice — EDA & Feature Engineering
+
+This repository contains practice sets focused on:
+
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Cleaning
+- Data Visualization
+- Python-based Data Analytics
